@@ -1,0 +1,55 @@
+Model:
+Banner:
+title = char
+addition = char
+Image = Imagefield
+Image2 = Imagefield
+
+Sevice:
+icon  = image
+title = char
+description = char
+
+Category:
+name = char
+
+Additional:
+name = char
+
+Product:
+name = Char
+rayting = Float
+old_price = nul true blank true
+price = Deciminial
+description = Text
+category = for
+additional = manytomany
+
+
+Section:
+title = char
+addition = char
+description = char
+price = deciminial
+kg = integer
+image = image
+
+
+Static:
+title =char
+number = Integer
+
+
+Testimonial:
+description = char
+name = char
+profession = char
+image = image
+rayting = float
+
+
+
+Info:
+adress
+mail
+phone
